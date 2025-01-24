@@ -1,0 +1,254 @@
+{
+     "button":
+     {
+         "misc":
+         {
+             "border_width": "1",
+             "shadow_width": "2"
+         }
+    },
+    "@friendly_buttons":
+     {     "colours":
+         {
+             "normal_bg": "#00000050",
+             "hovered_bg": "#00000070",
+             "disabled_bg": "#00000000",
+             "selected_bg": "#111111",
+             "active_bg": "#00000000",
+             "normal_text": "#00000000",
+             "hovered_text": "#00000000",
+             "selected_text": "#00000000",
+             "disabled_text": "#00000000",
+             "active_text": "#00000000",
+             "normal_border": "#00000000",
+             "hovered_border": "#00000000",
+             "disabled_border": "#00000000",
+             "selected_border": "#00000000",
+             "active_border": "#00000000",
+             "normal_text_shadow": "#00000000",
+             "hovered_text_shadow": "#00000000",
+             "disabled_text_shadow": "#00000000",
+             "selected_text_shadow": "#00000000",
+             "active_text_shadow": "#00000000"
+         },       
+         "misc":
+         {
+             "shadow_width": "5",
+             "shape": "rounded_rectangle"
+         }
+    },
+    "@sound_buttons":
+     {     "colours":
+         {
+             "normal_bg": "#00000000",
+             "hovered_bg": "#00000000",
+             "disabled_bg": "#00000000",
+             "selected_bg": "#00000000",
+             "active_bg": "#00000000",
+             "normal_text": "#00000000",
+             "hovered_text": "#00000000",
+             "selected_text": "#00000000",
+             "disabled_text": "#00000000",
+             "active_text": "#00000000",
+             "normal_border": "#00000000",
+             "hovered_border": "#00000000",
+             "disabled_border": "#00000000",
+             "selected_border": "#00000000",
+             "active_border": "#00000000",
+             "normal_text_shadow": "#00000000",
+             "hovered_text_shadow": "#00000000",
+             "disabled_text_shadow": "#00000000",
+             "selected_text_shadow": "#00000000",
+             "active_text_shadow": "#00000000"
+         },       
+         "misc":
+         {
+             "shadow_width": "5",
+             "shape": "rounded_rectangle"
+         }
+    },
+    "#options":
+     {  
+         
+         "images":
+         {
+             "normal_image": {
+                 "package": "data.images",
+                 "resource": "button_options.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "hovered_image": {
+                 "package": "data.images",
+                 "resource": "button_options_activ.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "selected_image": {
+                 "package": "data.images",
+                 "resource": "button_options.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "disabled_image": {
+                 "package": "data.images",
+                 "resource": "button_options.png",
+                 "sub_surface_rect": "0,0,168,48"
+             }
+             
+
+         },
+         "misc":
+         {
+             "border_width": "1",
+             "shadow_width": "1",
+             "tool_tip_delay": "1.0",
+             "text_horiz_alignment": "left",
+             "text_vert_alignment": "top",
+             "text_horiz_alignment_padding": "10",
+             "text_vert_alignment_padding": "5",
+             "text_shadow_size": "1",
+             "text_shadow_offset": "0,0",
+             "state_transitions":
+             {
+                 "normal_hovered": "0.5",
+                 "hovered_normal": "0.5"
+             }
+         }
+    },
+    "#start":
+     {  
+         
+         "images":
+         {
+             "normal_image": {
+                 "package": "data.images",
+                 "resource": "button_play.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "hovered_image": {
+                 "package": "data.images",
+                 "resource": "button_play_activ.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "selected_image": {
+                 "package": "data.images",
+                 "resource": "button_play.png",
+                 "sub_surface_rect": "0,0,168,48"
+             },
+             "disabled_image": {
+                 "package": "data.images",
+                 "resource": "button_play.png",
+                 "sub_surface_rect": "0,0,168,48"
+             }
+             
+
+         },
+         "misc":
+         {
+             "border_width": "1",
+             "shadow_width": "1",
+             "tool_tip_delay": "1.0",
+             "text_horiz_alignment": "left",
+             "text_vert_alignment": "top",
+             "text_horiz_alignment_padding": "10",
+             "text_vert_alignment_padding": "5",
+             "text_shadow_size": "1",
+             "text_shadow_offset": "0,0",
+             "state_transitions":
+             {
+                 "normal_hovered": "0.5",
+                 "hovered_normal": "0.5"
+             }
+         }        
+    },
+    "#music":
+     {  
+         
+         "images":
+         {
+             "normal_image": {
+                 "package": "data.images",
+                 "resource": "button_music.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "hovered_image": {
+                 "package": "data.images",
+                 "resource": "button_music.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "selected_image": {
+                 "package": "data.images",
+                 "resource": "button_music_activ.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "disabled_image": {
+                 "package": "data.images",
+                 "resource": "button_music.png",
+                 "sub_surface_rect": "0,0,48,48"
+             }
+             
+
+         },
+         "misc":
+         {
+             "border_width": "1",
+             "shadow_width": "1",
+             "tool_tip_delay": "1.0",
+             "text_horiz_alignment": "left",
+             "text_vert_alignment": "top",
+             "text_horiz_alignment_padding": "10",
+             "text_vert_alignment_padding": "5",
+             "text_shadow_size": "1",
+             "text_shadow_offset": "0,0",
+             "state_transitions":
+             {
+                 "normal_hovered": "0.5",
+                 "hovered_normal": "0.5"
+             }
+         }        
+    },
+    "#sound":
+     {  
+         
+         "images":
+         {
+             "normal_image": {
+                 "package": "data.images",
+                 "resource": "button_sound.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "hovered_image": {
+                 "package": "data.images",
+                 "resource": "button_sound.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "selected_image": {
+                 "package": "data.images",
+                 "resource": "button_sound_activ.png",
+                 "sub_surface_rect": "0,0,48,48"
+             },
+             "disabled_image": {
+                 "package": "data.images",
+                 "resource": "button_sound.png",
+                 "sub_surface_rect": "0,0,48,48"
+             }
+             
+
+         },
+         "misc":
+         {
+             "border_width": "1",
+             "shadow_width": "1",
+             "tool_tip_delay": "1.0",
+             "text_horiz_alignment": "left",
+             "text_vert_alignment": "top",
+             "text_horiz_alignment_padding": "10",
+             "text_vert_alignment_padding": "5",
+             "text_shadow_size": "1",
+             "text_shadow_offset": "0,0",
+             "state_transitions":
+             {
+                 "normal_hovered": "0.5",
+                 "hovered_normal": "0.5"
+             }
+         }        
+    }
+}
